@@ -1,0 +1,51 @@
+* {
+	box-sizing: border-box;
+}
+html, body {
+
+}
+#navbar {
+
+}
+header {
+
+}
+
+#main-doc header {
+
+}
+#navbar ul {
+
+}
+#navbar li {
+
+}
+#narbar a {
+
+}
+#main-doc {
+
+}
+section article {
+
+}
+section li {
+
+}
+code {
+
+}
+@media only screen and (max-width: 815px) {
+    /*For mobile phone: */
+    #navbar ul {
+    }
+    #navbar {
+
+    }
+    #main-doc {
+
+    }
+}
+@media only screen and (max-width: 400px) {
+    
+}
